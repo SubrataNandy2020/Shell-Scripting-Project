@@ -1,0 +1,10 @@
+1.World_Health_day_is_observed_on? [A]3rdApril [B]4thApril  [C]7thApril  [D]8thApril    C
+2.India’s_first-ever_national_police_museum_will_establish_in_which_city? [A]Chennai [B]Delhi [C]Nagpur [D]Kolkata B
+3.Which_country_will_host_the_45th_G7_summit_2019? [A]Italy [B]Germany [C]France [D]Canada C
+4.Which_among_the_following_bodies_estimates_the_national_income_of_India? [A]Office_Economic_Advisor [B]Ministry_of_Statistics [C]Central_Statistical_Office   [D]Ministry_of_Finance    C 
+5.Mahatama_Gandhi_had_launched_his_first_Satyagraha_in_India_from_which_among_the_following_places? [A]Kheda [B]Bardoli [C]Champaran [D]Sabarmati C
+6.Which_of_the_following_European_countries_is_known_as_the_‘Land_of_a_thousand_lakes’? [A]Norway [B]Sweden [C]Finland [D]Estonia C
+7.What_is_the_name_of_India’s_first_nuclear_reactor?   [A]Cirius [B]Apsara [C]Dhruva [D]Kamini  B
+8.Which_country’s_women_cricket_team_has_clinched_the_Asia_Cup_Twenty-20_tournament_2018? [A]SouthKorea [B]Bangladesh [C]India [D]Pakistan B
+9.Which_country’s_football_team_has_lifted_the_2018_Intercontinental_Cup_football_title? [A]China [B]Bangladesh [C]India [D]Pakistan C
+10.Which_of_the_following_city_going_to_host_Asian_Games_2022? [A]NewDelhi [B]Hangzhou [C]Kuala_Lumpur [D]Tokyo B
